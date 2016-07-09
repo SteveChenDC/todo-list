@@ -20,11 +20,11 @@ In your CLI:
 Automated tests coming soon.
 
 
-## Built With
+<!--## Built With-->
 
-* Rails 5 - Back-end Framework
-* iTerm2
-* Atom
+<!--* Rails 5 - Back-end Framework-->
+<!--* iTerm2-->
+<!--* Atom-->
 
 ## Contributing
 
