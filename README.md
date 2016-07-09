@@ -1,24 +1,38 @@
-# README
+# To Do List
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+To do list web app showing the features of Rails with the ability to make multiple ToDo lists with smaller checklist todo items
+![alt text][image1]
+![image2]
 
-Things you may want to cover:
+[image1]: http://i.imgur.com/leTUVXu.png
+[image2]: http://i.imgur.com/hmS9adw.png
 
-* Ruby version
+## Getting Started
+In your CLI:
+- Run `bundle install` to install gem dependencies.
+- Run `rake db:migrate` to run Database migrations.
+- Start rails server using `rails s` or `rails server`
+- Open up your browser and hit `localhost:3000`
 
-* System dependencies
+## Running the tests
 
-* Configuration
+Automated tests coming soon.
 
-* Database creation
 
-* Database initialization
+## Built With
 
-* How to run the test suite
+* Rails 5 - Back-end Framework
+* iTerm2
+* Atom
 
-* Services (job queues, cache servers, search engines, etc.)
+## Contributing
 
-* Deployment instructions
+Fork and send a Pull request via Github! I'm on Github daily
 
-* ...
+## Authors
+
+* **Steve Chen** 
+
+## License
+
+This project is licensed under the MIT License
