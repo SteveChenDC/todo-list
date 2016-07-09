@@ -1,5 +1,5 @@
-<%= form_for(todo_list) do |f| %>
-  <% if todo_list.errors.any? %>
+<%= form_for(@todo_list) do |f| %>
+  <% if @todo_list.errors.any? %>
     <div id="error_explanation">
       <h2><%= pluralize(todo_list.errors.count, "error") %> prohibited this todo_list from being saved:</h2>
 
