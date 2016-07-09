@@ -1,6 +1,7 @@
 # To Do List
 
-To do list web app showing the features of Rails with the ability to make multiple ToDo lists with smaller checklist todo items
+ToDo list web app showing the with the ability to make multiple ToDo lists with smaller checklist todo items
+  
 ![alt text][image1]
 ![image2]
 
